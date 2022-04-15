@@ -1,0 +1,124 @@
+.body, h3 {
+    margin: 0;
+}
+.copy {
+    margin-top: 150px;
+}
+.clr {
+    clear: both;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+    color: black;
+}
+
+.block {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.block {
+    float: left;
+    width: 33.3%;
+    border: 1px double black;
+    padding 10px;
+    box-sizing: border-box;
+}
+.content {
+    float: left;
+    width: 70%;
+}
+.sidebar {
+    float: left;
+    width: 30%;
+    background-color: #333;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 0 10px;
+}
+.relative {
+    position: relative;
+    top: 10px;
+    width: 500px;
+    height: 500px;
+    background-image: url(abdulhamid.jpg);
+    background-size: cover;
+}
+.absolute {
+    color: #fff;
+    position: absolute;
+    right: 12px;
+    bottom: 10px;
+}
+.absolute2 {
+    color: #fff;
+    position: absolute;
+    top: 11px;
+    bottom: 10px;
+    left: 10px
+}
+.fixed {
+    position: fixed;
+    right: 0;
+    bottom: 4%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.list-items li {
+    color: #555;
+    padding: 5px;
+    list-style-type: none;
+    
+}
+.list-items li:nth-child(odd) {
+    color: blue;
+}
+.list-items li:nth-child(even) {
+    color: green;
+}
+
+
+.love1 {
+    width: 100%;
+}
+.love1, th {
+    border: 1px dashed red;
+    background-color: lightgray;
+}
+.love1, td {
+    border: 1px dashed red;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
