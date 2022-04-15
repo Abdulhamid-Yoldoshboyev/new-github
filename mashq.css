@@ -18,7 +18,7 @@
     margin-bottom: 10px;
 }
 .block {
-    float: left;
+    float: right;
     width: 33.3%;
     border: 1px double black;
     padding 10px;
